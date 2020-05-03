@@ -1,0 +1,69 @@
+.footer .logo-footer-container .logo-footer-wrap .logo-footer {
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.footer {
+  height: 100%;
+  background-color: #2e2d2c;
+  padding: 44px 0 24px;
+  display: flex; }
+  .footer .logo-footer-container .logo-footer-wrap {
+    width: 30.45px;
+    height: 36px; }
+    .footer .logo-footer-container .logo-footer-wrap .logo-footer {
+      background-image: url("../images/logo.svg"); }
+  .footer .footer-category-container .footer-category-title {
+    color: white;
+    font-size: 20px;
+    font-family: SF Pro Display;
+    font-weight: 200; }
+  .footer .footer-category-container .footer-nav-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 25px; }
+  .footer .footer-category-container .footer-nav-list li a {
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+    padding-bottom: 3px; }
+  .footer .footer-info-container .footer-info-title {
+    color: white;
+    font-size: 20px;
+    font-family: SF Pro Display;
+    font-weight: 200; }
+  .footer .footer-info-container .footer-nav-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 25px; }
+  .footer .footer-info-container .footer-nav-list li a {
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+    padding-bottom: 3px; }
+  .footer .contact-us-container {
+    display: flex;
+    flex-direction: column; }
+    .footer .contact-us-container .contact-us-title {
+      color: white;
+      font-size: 20px;
+      font-family: SF Pro Display;
+      font-weight: 200;
+      align-self: flex-end; }
+    .footer .contact-us-container .contact-us-numbers-container {
+      margin-top: 25px; }
+      .footer .contact-us-container .contact-us-numbers-container .contact-us-number a {
+        font-size: 20px;
+        font-weight: 300;
+        color: white;
+        font-family: SF Pro Display;
+        text-decoration: none; }
+    .footer .contact-us-container .contact-us-time {
+      font-size: 14px;
+      font-family: SF Pro Display;
+      font-weight: 400;
+      color: white;
+      margin-top: 5px;
+      align-self: flex-end; }
